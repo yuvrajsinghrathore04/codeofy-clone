@@ -18,7 +18,7 @@ const stats = [
   { icon: TrendingUp, label: "Projects Delivered", value: "10+" },
   { icon: Users, label: "Happy Clients", value: "5+" },
   { icon: Star, label: "Client Rating", value: "4.9/5" },
-  { icon: Stars, label: "Satisfation", value: "100%" },
+  { icon: Globe, label: "Satisfation", value: "100%" },
 ];
 
 const floatingIcons = [
