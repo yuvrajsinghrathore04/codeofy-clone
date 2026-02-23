@@ -15,10 +15,10 @@ import {
 } from "lucide-react";
 
 const stats = [
-  { icon: TrendingUp, label: "Projects Delivered", value: "200+" },
-  { icon: Users, label: "Happy Clients", value: "150+" },
+  { icon: TrendingUp, label: "Projects Delivered", value: "10+" },
+  { icon: Users, label: "Happy Clients", value: "5+" },
   { icon: Star, label: "Client Rating", value: "4.9/5" },
-  { icon: Globe, label: "Countries Served", value: "15+" },
+  { icon: thumb, label: "Satisfation", value: "100%" },
 ];
 
 const floatingIcons = [
